@@ -1,0 +1,18 @@
+#body{
+    align-items: center;
+    background-color:rgb(63, 61, 61);
+    font-family: 'Oswald', sans-serif;
+    color: honeydew;
+    letter-spacing: 1px;
+}
+#title{
+    margin-left: 40px;
+    margin-top: 60px;
+}
+#parrafo{
+    margin-left: 20px;
+    align-items: center;
+    margin-right: 1200px;
+    text-shadow: 2px black;
+    text-decoration-style: dashed;
+}
